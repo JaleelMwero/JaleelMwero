@@ -1,52 +1,74 @@
-# Hi, I'm Jaleel Mwero 👋
+# 👋 Hi, I’m Jaleel Mwero
 
-I'm a passionate Mechanical Engineer turned Product Manager and IoT specialist with a strong drive for innovation and solving real-world challenges through technology. With hands-on experience in IoT product development, business analysis, and software automation, I bring a unique blend of engineering, data, and user-centered design to every project I tackle.
+![Tech Stack](https://img.shields.io/badge/Tech-IoT%20|%20Python%20|%20JavaScript-007acc?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to-Collaboration-brightgreen?style=for-the-badge&logo=Handshake&logoColor=white)
+![Top Language](https://img.shields.io/github/languages/top/JaleelMwero/ladder-chat-bot?style=for-the-badge&color=purple&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=JaleelMwero&style=for-the-badge&color=grey)
+![Last Commit](https://img.shields.io/github/last-commit/JaleelMwero/ladder-chat-bot?style=for-the-badge&logo=git&logoColor=white)
+![Followers](https://img.shields.io/github/followers/JaleelMwero?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/JaleelMwero/ladder-chat-bot?style=for-the-badge&logo=Star&logoColor=white)
 
 ---
 
 ## 🚀 About Me
 
-- 💡 Experienced in IoT devices, data analysis, and full product lifecycle management.
-- 🤖 Creator of the **Ladder Chat Bot** — a Telegram bot designed to streamline user management and payment escrow in community groups.
-- 📊 Skilled in data visualization, A/B testing, and driving actionable business insights.
-- 🎨 Passionate about UX/UI design with ongoing training to improve user experience in tech products.
-- 🌍 Advocate for technology-driven solutions in emerging markets.
+A **Product Manager & IoT Specialist** passionate about building tech solutions that solve real-world problems. I bring together experience in IoT hardware, automation, data analysis, and user-focused product design to drive innovation from idea to launch.
+
+- 💡 Experienced in IoT product development, sensor integration, and full product lifecycle management  
+- 🤖 Creator of [**Ladder Chat Bot**](https://github.com/JaleelMwero/ladder-chat-bot) — a Telegram bot automating community management and crypto-based escrow payments  
+- 📊 Adept at data visualization, A/B testing, and delivering business insights  
+- 🎨 Growing UX/UI design skills to build intuitive, human-centered products  
+- 🌍 Passionate about using tech to empower communities and drive innovation in emerging markets
 
 ---
 
 ## 🔨 Featured Project
 
-### [Ladder Chat Bot](https://github.com/JaleelMwero/ladder-chat-bot)
-A Telegram bot built to support The Ladder Club community by managing user approvals, banning, payment escrow with cryptocurrency integration, and automated messaging — aiming to simplify admin tasks and enhance user engagement.
+### 💬 [Ladder Chat Bot](https://github.com/JaleelMwero/ladder-chat-bot)
+
+A custom Telegram bot designed for **The Ladder Club** community. It handles user approvals, bans, crypto escrow payments (via Cryptomus), and automated welcome messages — streamlining community admin tasks while improving transparency and user experience.
 
 ---
 
-## 💼 Skills & Technologies
+## 💼 Skills & Tools
 
-- **Programming:** Python, JavaScript  
-- **IoT & Hardware:** Embedded systems, device management, sensor integration  
-- **Data:** Data analysis, visualization (Power BI, Tableau), A/B testing  
-- **Product Management:** Agile methodologies, user research, business intelligence  
-- **Tools:** Git, Docker, Telegram Bot API, Cryptomus API (payment integration)  
-- **Design:** Figma, UX/UI principles  
+**Languages & Frameworks**  
+`Python` · `JavaScript`
+
+**IoT & Hardware**  
+`Embedded Systems` · `Sensor Integration` · `Device Management`
+
+**Data & Analytics**  
+`Power BI` · `Tableau` · `A/B Testing` · `Business Intelligence`
+
+**Product Management**  
+`Agile Workflow` · `User Research` · `Product Strategy`
+
+**APIs & Dev Tools**  
+`Git` · `Docker` · `Telegram Bot API` · `Cryptomus API`
+
+**Design & Prototyping**  
+`Figma` · `UX/UI Principles`
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/jaleel-mwero-9a1319179/)  
-- [Portfolio](https://jaleelmwero.wixsite.com/jaleel-mwero)  
-- [GitHub Projects](https://github.com/JaleelMwero)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaleel-mwero-9a1319179/)  
+- 🌐 [Portfolio](https://jaleelmwero.wixsite.com/jaleel-mwero)  
+- 💻 [GitHub Projects](https://github.com/JaleelMwero)  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Jaleel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaleelMwero&show_icons=true&theme=radical)
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate or discuss innovative tech solutions.
+Thanks for visiting my profile! Let’s connect and collaborate on building tech that makes an impact.
+
+
 
 
 <!--
