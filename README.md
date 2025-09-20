@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Jaleel Mwero  
+# 🤖 System Online: Jaleel Mwero  
 
-🎨 **UX/UI Designer** | 📊 **Data Analyst** | 🤖 **Generative AI**  
+🎨 Module: UX/UI Design  
+📊 Module: Data Analysis  
+🧠 Module: Generative AI  
 
-I design intuitive user experiences, uncover insights through data, and apply generative AI to solve real-world problems.  
-Always focused on building simple, impactful, and human-centered solutions.  
+> Function: Design intuitive interfaces, extract data-driven insights, and deploy AI for real-world problem-solving.  
+> Protocol: Build simple | impactful | human-centered systems.  
 
 ---
