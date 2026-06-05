@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="68%" valign="top">
 
 # Hi, I’m Jaleel Mwero  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=00F700&width=600&lines=UX%2FUI+Designer;Data+Analyst;AI+Builder;Product+%26+IoT+Specialist;Building+simple+impactful+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=00F700&width=620&lines=UX%2FUI+Designer;Data+Analyst;AI+Builder;Product+%26+IoT+Specialist;Building+simple+impactful+systems)](https://git.io/typing-svg)
 
 I’m a multidisciplinary builder working across **data analysis, UX/UI design, AI tools, IoT products, and product operations**.
 
@@ -14,9 +14,9 @@ I enjoy turning messy problems into simple, useful systems — whether that mean
 > **Protocol:** Build simple | impactful | human-centered systems.
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="Jaleel coding animation" />
+<img src="./WebProgramming.gif" width="150" alt="Jaleel coding animation" />
 
 </td>
 </tr>
@@ -26,11 +26,11 @@ I enjoy turning messy problems into simple, useful systems — whether that mean
 
 ## About Me  
 
-I’m **Jaleel Mwero**, a multidisciplinary builder working across **data analysis, UX/UI design, AI tools, IoT products, and product operations**.  
+I’m **Jaleel Mwero**, a multidisciplinary builder working at the intersection of **design, data, AI, IoT, and product execution**.
 
-My work sits at the intersection of **design, data, AI, IoT, and product execution**. I enjoy building systems that are practical, human-centered, and useful in real-world environments.
+My work focuses on building systems that are practical, human-centered, and useful in real-world environments. I care about solving actual problems — not just creating beautiful interfaces or writing code for the sake of it.
 
-I care about solving actual problems — not just creating beautiful interfaces or writing code for the sake of it. Whether I’m designing a platform, analyzing data, testing a product, or building an automation tool, my goal is always the same: make the solution clear, useful, and impactful.
+Whether I’m designing a platform, analyzing data, testing a product, or building an automation tool, my goal is always the same: make the solution clear, useful, and impactful.
 
 ---
 
