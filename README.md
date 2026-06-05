@@ -85,14 +85,32 @@ I’m currently focused on improving my work in:
 
 ---
 
-## GitHub Stats  
+## GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaleelMwero&show_icons=true&theme=radical" alt="Jaleel's GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=JaleelMwero&label=Profile%20Views&color=00f700&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaleelMwero&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaleelMwero&theme=radical" alt="Jaleel Mwero GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaleelMwero&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaleelMwero&theme=radical" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaleelMwero&theme=radical" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaleelMwero&theme=radical&utcOffset=3" alt="Productive time" />
+</p>
+
+---
+
+## GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JaleelMwero&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
