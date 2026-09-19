@@ -102,7 +102,7 @@ This makes each repository easy to review and shows the full thinking process be
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaleelMwero&layout=compact&theme=radical&count_private=true&langs_count=20" alt="All languages across all repos including private" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaleelMwero&theme=radical" alt="Top languages by repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaleelMwero&theme=radical" alt="Most commit language" />
 </p>
 
