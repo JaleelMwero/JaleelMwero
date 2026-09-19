@@ -2,11 +2,11 @@
 <tr>
 <td width="68%" valign="top">
 
-# Hi, I’m Jaleel Mwero
+# Hi, I'm Jaleel Mwero
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono\&size=22\&duration=3000\&pause=1000\&color=00F700\&width=620\&lines=Data+Analyst;Business+Analyst;AI+Builder;UX%2FUI+Designer;Product+%26+Operations+Specialist;Building+simple+impactful+systems)](https://git.io/typing-svg)
 
-I’m a multidisciplinary builder working across **data analysis, business intelligence, UX/UI design, AI tools, IoT products, and product operations**.
+I'm a multidisciplinary builder working across **data analysis, business intelligence, UX/UI design, AI tools, IoT products, and product operations**.
 
 I enjoy turning messy problems into simple, useful systems — whether that means cleaning datasets, building dashboards, designing better user flows, automating workflows, or creating products that solve real-world problems in emerging markets.
 
@@ -26,7 +26,7 @@ I enjoy turning messy problems into simple, useful systems — whether that mean
 
 ## About Me
 
-I’m **Jaleel Mwero**, a multidisciplinary builder working across **data analysis, business intelligence, UX/UI design, AI tools, IoT products, and product operations**.
+I'm **Jaleel Mwero**, a multidisciplinary builder working across **data analysis, business intelligence, UX/UI design, AI tools, IoT products, and product operations**.
 
 My work sits at the intersection of **data, design, and real-world execution**. I enjoy turning messy datasets and operational problems into clear insights, dashboards, and practical recommendations.
 
@@ -102,7 +102,7 @@ This makes each repository easy to review and shows the full thinking process be
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaleelMwero&theme=radical" alt="All languages in my repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaleelMwero&theme=radical&type=ALL" alt="All languages across all repos" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaleelMwero&theme=radical" alt="Most commit language" />
 </p>
 
